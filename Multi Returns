@@ -1,0 +1,7 @@
+function getOddNumbersRange(rStart, reEnd){
+    let n = 11;
+    if r%2==1 {console.log(n);
+    }
+}
+}
+getOddNumbersRange(10,50)
